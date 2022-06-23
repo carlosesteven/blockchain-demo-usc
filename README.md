@@ -84,6 +84,6 @@ That one block would take this software approximately 8,454,989,768,407,765 year
 
 ### Public Private Key Demo
 
-The 2nd part of the 101 session:
+The 2nd part of the demo:
 
 - https://github.com/carlosesteven/public-private-key-demo
