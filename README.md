@@ -2,8 +2,6 @@
 
 A web-based demonstration of blockchain concepts.
 
-[![Blockchain - Demo](https://usceduco7466-my.sharepoint.com/personal/carlos_cancimance00_usc_edu_co/_layouts/15/Doc.aspx?sourcedoc={b56a7e20-133a-41ee-9684-18ff6eb6ad1a}&action=embedview&wdAr=1.7777777777777777)](https://usceduco7466-my.sharepoint.com/personal/carlos_cancimance00_usc_edu_co/_layouts/15/Doc.aspx?sourcedoc={b56a7e20-133a-41ee-9684-18ff6eb6ad1a}&action=embedview&wdAr=1.7777777777777777)
-
 This is a very basic visual introduction to the concepts behind a blockchain. We introduce
 the idea of an immutable ledger using an interactive web demo that is available here:
 
